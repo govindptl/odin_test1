@@ -1,2 +1,3 @@
 # odin_test1
 first repo for odin project
+adding some lines from the VSCode for git practice...
